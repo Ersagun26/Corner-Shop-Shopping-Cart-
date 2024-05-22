@@ -17,7 +17,7 @@
                 <h4 class="card-text">$${price}</h4>
                 <h4 class="card-text">Quantity: ${quantity}</h4>
                 <h4 class="card-text">Tax Rate: ${taxRate}%</h4>
-            </div>
+            </div >
         </div>
     `;
     productCards.appendChild(card);
